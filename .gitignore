@@ -1,0 +1,5 @@
+# Windows junk
+Thumbs.db
+.DS_Store
+*.log
+.idea/
